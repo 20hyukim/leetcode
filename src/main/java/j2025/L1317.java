@@ -1,4 +1,4 @@
-package september2025;
+package j2025;
 
 class Solution1317 {
     public int[] getNoZeroIntegers(int n) {

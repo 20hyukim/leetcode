@@ -1,4 +1,4 @@
-package september2025;
+package j2025;
 
 class Solution2327 {
     public int peopleAwareOfSecret(int n, int delay, int forget) {

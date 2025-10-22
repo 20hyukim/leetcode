@@ -1,4 +1,4 @@
-package september2025;
+package j2025;
 
 class LFoodRatings {
     String[] foods;
