@@ -3,10 +3,7 @@ package j2025;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.StringTokenizer;
-
 
 // 백준 2422번: 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
 public class B2422 {
