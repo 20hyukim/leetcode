@@ -27,7 +27,7 @@ public class B2422 {
         int count = 0;
         for (int i = 1; i <= n - 2; i++) {
             for (int j = i + 1; j <= n - 1; j++) {
-                if (bad[i][j]) continue;
+                if (bad[i][j]) continue; // continue 여기에 넣음으로서, for 문 절약 가능.
                 for (int k = j + 1; k <= n; k++) {
                     if (bad[i][k] || bad[j][k]) continue;
                     count++;
