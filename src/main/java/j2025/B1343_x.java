@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Objects;
 
 // 백준 1343번 : 폴리오미노
-public class B1343 {
+public class B1343_x {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line = br.readLine();
